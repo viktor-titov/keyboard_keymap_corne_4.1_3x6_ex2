@@ -1,0 +1,4 @@
+{
+    "pasteImageToMarkdown.path": "${currentFileDir}/.screenshots",
+    "pasteImageToMarkdown.basePath": "${currentFileDir}"
+}
