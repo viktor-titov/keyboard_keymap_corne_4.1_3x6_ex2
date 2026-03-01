@@ -23,7 +23,7 @@ __screenshots__
 ![alt text](./.screenshots/image-1.png)
 ![alt text](./.screenshots/image-2.png)
 ![alt text](./.screenshots/image-3.png)
-![alt text](./.screenshots/image-4.png)
+![alt text](./.screenshots/image-4.png) 
 ![alt text](./.screenshots/image-5.png)
 ![alt text](./.screenshots/image-6.png)
 
@@ -42,6 +42,7 @@ __screenshots__
 тренажеры:
 - https://stamina-online.com/ru/lessons/ru
 - https://www.typingstudy.com/ru-russian-3/
+- [написание кода на go](https://typerun.top/#eng_code_go)
 
 страница для настройки клавиатуры:
 
